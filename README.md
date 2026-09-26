@@ -6,7 +6,7 @@ Aplica, sobre un corpus de comentarios de YouTube (inspirado en el dataset [YouT
 
 ---
 
-## 📑 Temas cubiertos
+## Temas cubiertos
 
 **NLP clásico**
 - Normalización de texto
@@ -51,7 +51,7 @@ procesamiento-de-texto-nlp/
 
 El corpus y el análisis de resultados se orientan al proyecto de curso **"Estadísticas de YouTube"**, cuyo objetivo es predecir el desempeño de un video (likes/vistas) a partir del texto de sus comentarios. Este laboratorio construye y valida, paso a paso, el pipeline de NLP necesario para ese modelo: desde la limpieza del texto hasta la clasificación de sentimiento y el uso de LLM para tareas avanzadas (resumen, QA, generación).
 
-## ⚙️ MLOps
+## MLOps
 
 Siguiendo las pautas del curso, el proyecto contempla:
 
